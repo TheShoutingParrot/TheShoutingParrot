@@ -3,9 +3,9 @@
 I'm a programming hobbyist from Finland who is especially interested in low-level programming, web servers and other neat things.
 
 ### I’m currently...
-  - 🔭 working on [simpleforum](https://github.com/TheShoutingParrot/simpleforum)
+  - 🔭 in school and working on [A New Basic Language](https://github.com/TheShoutingParrot/anbl)
   - 🌱 learning [Golang](https://go.dev) and about operating systems
-  - 👯 looking to collaborate on [simpleforum](https://github.com/TheShoutingParrot/simpleforum)
+  - 👯 looking to collaborate on my programming language ([A New Basic Language](https://github.com/TheShoutingParrot/anbl))
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshoutingparrot&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
