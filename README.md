@@ -4,8 +4,7 @@ I'm a programming hobbyist from Finland who is especially interested in low-leve
 
 ### I’m currently...
   - 🔭 in school and working on [A New Basic Language](https://github.com/TheShoutingParrot/anbl)
-  - 🌱 learning [Golang](https://go.dev) and about operating systems
-  - 👯 looking to collaborate on my programming language ([A New Basic Language](https://github.com/TheShoutingParrot/anbl))
+  - 🌱 learning Dart and about application development
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshoutingparrot&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
