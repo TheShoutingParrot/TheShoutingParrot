@@ -4,7 +4,7 @@ I'm a programming hobbyist from Finland who is especially interested in low-leve
 
 ### I’m currently...
   - Learning a bit about machine learning
-  - Working at [Sunny Harbor Oy](sunnyharbor.fi)
+  - Working at [Sunny Harbor Oy](https://sunnyharbor.fi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshoutingparrot&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
