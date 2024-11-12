@@ -1,20 +1,16 @@
 ## Hi there 👋, I'm Victor!
 
-I'm a programming hobbyist from Finland who is especially interested in low-level programming, web servers and other neat things.
+Co-Founder of [Sunny Harbor Oy](https://sunnyharbor.fi).  At Sunny Harbor I mostly work as a backend developer.
 
-### I’m currently...
-  - Learning a bit about machine learning
-  - Working at [Sunny Harbor Oy](https://sunnyharbor.fi)
+Also interested in low-level programming, machine learning and other fun things.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshoutingparrot&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 *As you can see I've programmed a lot in C, though at work I use almost excusively Golang*
 
-#### 📫 How to reach me:
-  - The safest bet is [email (vxoca2005@gmail.com)](mailto:vxoca2005@gmail.com)
-  - I can also be reached via Discord: my3rdacountplzdontforgetpassword#0145
+#### 📫 How to reach me
 
-If you are interested in my work and/or my skillset, see the pinned repositories or [contact me](mailto:vxoca2005@gmail.com)
+The safest bet is [email (victor.x.ocampo@gmail.com)](mailto:victor.x.ocampo@gmail.com)
 
 <!--
 **TheShoutingParrot/TheShoutingParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
