@@ -2,11 +2,9 @@
 
 Co-Founder of [Sunny Harbor Oy](https://sunnyharbor.fi).  At Sunny Harbor I mostly work as a backend developer.
 
-Also interested in low-level programming, machine learning and other fun things.
+"Isoi juttui tulos"
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshoutingparrot&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-*As you can see I've programmed a lot in C, though at work I use almost excusively Golang*
 
 #### 📫 How to reach me
 
