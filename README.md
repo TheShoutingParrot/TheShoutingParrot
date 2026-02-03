@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Victor!
 
-Co-Founder of [Sunny Harbor Oy](https://sunnyharbor.fi).  At Sunny Harbor I mostly work as a backend developer.
+Co-Founder of [Minttu AI](minttu.ai).
 
 "Isoi juttui tulos"
 
@@ -8,19 +8,4 @@ Co-Founder of [Sunny Harbor Oy](https://sunnyharbor.fi).  At Sunny Harbor I most
 
 #### 📫 How to reach me
 
-The safest bet is [email (victor.x.ocampo@gmail.com)](mailto:victor.x.ocampo@gmail.com)
-
-<!--
-**TheShoutingParrot/TheShoutingParrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The safest bet is [email (victor@vinor.fi)](mailto:victor@vinor.fi)
